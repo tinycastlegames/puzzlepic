@@ -1,37 +1,20 @@
 ## PRIVACY POLICY
-
-OK You can use the [editor on GitHub](https://github.com/tinycastlegames/puzzlepic/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tinycastlegames/puzzlepic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This privacy policy governs your use of the software application Puzzle Pic (“Application”) for mobile devices that was created by Tiny Castle Games. 
+### User Provided Information 
+The Application does not obtain any the information you provide when you download and install the Application. Registration is not required beyond what is required to download the Application.
+### Automatically Collected Information 
+In addition, the Application does not collect information automatically, in relation to any of the following, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, or information about the way you use the Application. 
+We do not sell or rent your Personally Identifiable Information to any third party. We may, however, use certain information about you that is not personally identifiable.
+We use public information collected to determine the kinds of content that you would like to view and to assist any advertisers in targeting their advertising.
+### Does the Application collect precise real time location information of the device?
+This Application does not collect precise information about the location of your mobile device. 
+### For children under age 13
+We do not collect any personally identifiable information such as name, address, phone number, email address .... etc for anyone and that includes persons under the age of 13.
+### Ad network
+Google AdMob - For Apps that are listed in "Designed for families category", Admob automatically restricts ad content. Child directed tag will be enabled in Admob SDK. Admob collects Geo location information to show country specific Ads.
+Reference Links: https://support.google.com/admob/answer/7562142 
+https://support.google.com/admob/answer/6223431?hl=en&ref_topic=7384665 
+### Privacy Policy Changes
+Although most changes are likely to be minor, Tiny Castle Games may change its Privacy Policy from time to time, and in Tiny Castle Games sole discretion. Tiny Castle Games encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+### Contact us
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at tinycastlegames@gmail.com 
