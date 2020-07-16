@@ -12,8 +12,9 @@ This Application does not collect precise information about the location of your
 We do not collect any personally identifiable information such as name, address, phone number, email address .... etc for anyone and that includes persons under the age of 13.
 ### Ad network
 Google AdMob - For Apps that are listed in "Designed for families category", Admob automatically restricts ad content. Child directed tag will be enabled in Admob SDK. Admob collects Geo location information to show country specific Ads.
-Reference Links: https://support.google.com/admob/answer/7562142 
-https://support.google.com/admob/answer/6223431?hl=en&ref_topic=7384665 
+Reference Links: 
+[Link]https://support.google.com/admob/answer/7562142 
+[Link]https://support.google.com/admob/answer/6223431?hl=en&ref_topic=7384665 
 ### Privacy Policy Changes
 Although most changes are likely to be minor, Tiny Castle Games may change its Privacy Policy from time to time, and in Tiny Castle Games sole discretion. Tiny Castle Games encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 ### Contact us
